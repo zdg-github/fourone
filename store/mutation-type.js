@@ -1,0 +1,5 @@
+export const SETWORLD = 'SETWORLD'
+export const SETCN_LIST = 'SETCN_LIST'
+export const SETWORLD_LIST = 'SETWORLD_LIST'
+export const GEOCHINA = 'GEOCHINA'
+export const GEOWORLD = 'GEOWORLD'
